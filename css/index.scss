@@ -1,43 +1,34 @@
 //>  ████████████████████████████████████  1
 
-header {
-    background-color: purple;
+.h2__white {
+color: white;
 }
 
-.header__text {
-    color: white;
+.h2__black {
+color: black;
 }
 
-.article__title {
-    padding-top: 2vw;
-    font-family: "light";
+.background__green {
+background-color: green;
+color: white;
 }
 
-.article__date,
-.article__author {
-    font-family: "bold";
-    color: grey;
-    font-size: 3vw;
-}
+.interest__lightgreen {
 
-.article__date {
-    font-style: italic;
-}
-
-.article__author {
-    margin-top: -1vw;
-}
-
-#footer {
-
-    margin-top: 2vw;
-    font-size: 2vw;
-    font-family: 'bold';
-    background-color: purple;
-    color: white;
-
+color: lightgreen;
 
 }
+
+.interest__first {
+
+color: lightgreen;
+
+}
+
+ol, ul {
+text-align: left;
+}
+
 
 
 //>  ████████████████████████████████████  2
