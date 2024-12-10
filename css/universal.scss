@@ -1,0 +1,65 @@
+//? ████████████████████████████████████  GET FONT
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,200;0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+
+//>  ████████████████████████████████████  FONTS
+
+@font-face {
+  font-family: "bold";
+  src: url("../fonts/FiraSans-Black.ttf");
+}
+
+@font-face {
+  font-family: "light";
+  src: url("../fonts/FiraSans-Light.ttf");
+}
+
+//>  ████████████████████████████████████  RESET
+
+* {
+  // font-family: "bold";
+  // color: black;
+  
+  // text-align: center;
+  
+  // border: 1px solid #999;
+}
+
+//>  ████████████████████████████████████  BODY
+
+body {}
+
+//>  ████████████████████████████████████  H1
+
+h1 {
+
+  font-family: "bold";
+  font-size: 8vw;
+  color: white;
+  text-shadow: 0.5vw 0.5vw 2vw rgba(0, 0, 0, 0.25);
+  
+  padding-top: 6vw;
+}
+
+h2 {
+
+  font-family: "bold";
+  font-size: 4vw;
+  color: black;
+
+}
+
+h3 {
+
+  font-family: "bold";
+  font-size: 4vw;
+  color: white;
+
+}
+
+p {
+
+  font-family: "light";
+  font-size: 3vw;
+  color: white;
+
+}

@@ -1,0 +1,60 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#00d9cc",
+        "activityBar.background": "#00d9cc",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#d200df",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "editorGroup.border": "#00d9cc",
+        "panel.border": "#00d9cc",
+        "sash.hoverBorder": "#00d9cc",
+        "sideBar.border": "#00d9cc",
+        "statusBar.background": "#00a69c",
+        "statusBar.border": "#00a69c",
+        "statusBar.debuggingBackground": "#a6000a",
+        "statusBar.debuggingBorder": "#a6000a",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#00d9cc",
+        "statusBarItem.remoteBackground": "#00a69c",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#00d9cc",
+        "titleBar.activeBackground": "#00a69c",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#00a69c",
+        "titleBar.inactiveBackground": "#00a69c99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "00A69C",
+    "liveServer.settings.port": 5508,
+    "cSpell.words": [
+        "ashutterstock",
+        "childnodes",
+        "dhutterstock",
+        "shutterstock"
+    ],
+    "favorites.resources": [
+        {
+            "filePath": "index.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "css/universal.scss",
+            "group": "Default"
+        },
+        {
+            "filePath": "css/reset.scss",
+            "group": "Default"
+        },
+        {
+            "filePath": "css/index.scss",
+            "group": "Default"
+        },
+        {
+            "filePath": "util/-.txt",
+            "group": "Default"
+        }
+    ]
+}
