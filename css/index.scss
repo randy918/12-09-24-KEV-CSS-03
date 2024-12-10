@@ -1,10 +1,44 @@
 //>  ████████████████████████████████████  1
 
 header {
+    background-color: purple;
+}
 
-background-color
+.header__text {
+    color: white;
+}
+
+.article__title {
+    padding-top: 2vw;
+    font-family: "light";
+}
+
+.article__date,
+.article__author {
+    font-family: "bold";
+    color: grey;
+    font-size: 3vw;
+}
+
+.article__date {
+    font-style: italic;
+}
+
+.article__author {
+    margin-top: -1vw;
+}
+
+#footer {
+
+    margin-top: 2vw;
+    font-size: 2vw;
+    font-family: 'bold';
+    background-color: purple;
+    color: white;
+
 
 }
+
 
 //>  ████████████████████████████████████  2
 
@@ -16,6 +50,3 @@ background-color
 
 
 //>  ████████████████████████████████████  5
-
-
-
