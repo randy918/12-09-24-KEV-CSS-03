@@ -330,7 +330,7 @@ function showDateTimeFormat() {
   const today = new Date();
   const formattedDate = new Intl.DateTimeFormat("en-US").format(today);
   const consoleFunctioningMessage = `
-Console functioning: ${getDayVerbal()}, ${getMonthVerbal()} ${getDay()} at ${getHour()}:${getMinute00()}${getAmPm()}
+Console functioning:\n${getDayVerbal()}, ${getMonthVerbal()} ${getDay()} at ${getHour()}:${getMinute00()}${getAmPm()}
   `;
   return consoleFunctioningMessage;
 }

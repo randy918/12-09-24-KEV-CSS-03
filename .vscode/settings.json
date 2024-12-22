@@ -28,7 +28,7 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "00A69C",
-    "liveServer.settings.port": 5508,
+    "liveServer.settings.port": 5509,
     "cSpell.words": [
         "ashutterstock",
         "childnodes",
@@ -54,6 +54,14 @@
         },
         {
             "filePath": "util/-.txt",
+            "group": "Default"
+        },
+        {
+            "filePath": "js/index.js",
+            "group": "Default"
+        },
+        {
+            "filePath": "js/myfunctions.js",
             "group": "Default"
         }
     ]

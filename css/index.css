@@ -1,24 +1,6 @@
-.h2__white {
-  color: white;
-}
-
-.h2__black {
-  color: black;
-}
-
-.background__green {
-  background-color: green;
-  color: white;
-}
-
-.interest__lightgreen {
-  color: lightgreen;
-}
-
-.interest__first {
-  color: lightgreen;
-}
-
-ol, ul {
-  text-align: left;
+#image__one {
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
 }/*# sourceMappingURL=index.css.map */
